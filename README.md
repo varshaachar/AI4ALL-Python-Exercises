@@ -11,7 +11,7 @@ Contains:
 Solutions will be uploaded after exercise day.
 
 Coordinators: 
-Varsha Achar
-Colleen Kim
-Lainey Hall
-Tammy Qiu
+- Varsha Achar
+- Colleen Kim
+- Lainey Hall
+- Tammy Qiu
