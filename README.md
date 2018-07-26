@@ -10,6 +10,8 @@ Contains:
 
 Solutions will be uploaded after exercise day.
 
+Refer to the Python slides for help, if needed (link shared on Slack channel).
+
 Coordinators: 
 - Varsha Achar
 - Colleen Kim
